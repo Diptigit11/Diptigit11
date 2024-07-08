@@ -45,11 +45,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diptigit11&theme=radical" alt="GitHub Streak">
 </p>
 
-<h2 align="center">🎉 Fun Fact</h2>
-
-<p align="center">I like anime!</p>
-
-<h2 align="center">👀 Profile Views</h2>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Diptigit11&color=blueviolet" alt="Profile Views">
